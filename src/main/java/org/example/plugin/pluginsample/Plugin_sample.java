@@ -56,7 +56,7 @@ public final class Plugin_sample extends JavaPlugin implements Listener {
         // 今回は青色で星型の花火を打ち上げる。
         fireworkMeta.addEffect(
             FireworkEffect.builder().withColor(color).with(Type.BALL_LARGE).withFlicker().build());
-        fireworkMeta.setPower(1);
+        fireworkMeta.setPower(2);
 
         // 追加した情報で再設定する。
         firework.setFireworkMeta(fireworkMeta);
