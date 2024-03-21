@@ -1,0 +1,4 @@
+name: plugin-sample
+version: '${version}'
+main: org.example.plugin.pluginsample.Plugin_sample
+api-version: '1.20'
