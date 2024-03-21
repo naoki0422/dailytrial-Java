@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="171cf499-6de7-4a61-82e6-69b081504af6" name="変更" comment="Intellijサンプルコード" />
+    <list default="true" id="171cf499-6de7-4a61-82e6-69b081504af6" name="変更" comment="Intellijサンプルコード">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/plugin/pluginsample/Plugin_sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/plugin/pluginsample/Plugin_sample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "naoki0422"
+  }
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": []
+}]]></component>
   <component name="GitLabMergeRequestsSettings">{}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
@@ -152,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711060415891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Intellijサンプルコード">
+      <option name="closed" value="true" />
+      <created>1711060721883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060721883</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Intellijサンプルコード">
+      <option name="closed" value="true" />
+      <created>1711060772119</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060772119</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
