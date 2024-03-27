@@ -39,7 +39,7 @@ public final class Plugin_sample extends JavaPlugin implements Listener {
    */
   @EventHandler
   public void onPlayerToggleSneak(PlayerToggleSneakEvent e) throws IOException {
-    // イベント発生時のプレイヤーやワールドなどの情報を変数に持つ。
+    // イベント発生時のプレイヤーやワールドなどの情報を変数に持つ。えええなんてこった
     Player player = e.getPlayer();
     World world = player.getWorld();
 
