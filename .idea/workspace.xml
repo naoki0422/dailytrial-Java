@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="171cf499-6de7-4a61-82e6-69b081504af6" name="変更" comment="Intellijサンプルコード">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/plugin/pluginsample/Plugin_sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/plugin/pluginsample/Plugin_sample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,24 +42,59 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="BRANCH_SETTINGS">
+      <DvcsBranchSettings>
+        <excluded-from-favorite>
+          <branch-storage>
+            <map>
+              <entry type="LOCAL">
+                <value>
+                  <list>
+                    <branch-info repo="$PROJECT_DIR$" source="master" />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </branch-storage>
+        </excluded-from-favorite>
+        <favorite-branches>
+          <branch-storage>
+            <map>
+              <entry type="LOCAL">
+                <value>
+                  <list>
+                    <branch-info repo="$PROJECT_DIR$" source="minecraft" />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </branch-storage>
+        </favorite-branches>
+      </DvcsBranchSettings>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "naoki0422"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;naoki0422&quot;
   }
-}]]></component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": []
-}]]></component>
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: []
+}</component>
   <component name="GitLabMergeRequestsSettings">{}</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/naoki0422/plugin-sample.git",
-    "accountId": "20abe0d9-aaae-4534-9be3-60d6dc70f747"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/naoki0422/plugin-sample.git&quot;,
+    &quot;accountId&quot;: &quot;20abe0d9-aaae-4534-9be3-60d6dc70f747&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -73,7 +109,7 @@
     "Gradle.plugin-sample [jar].executor": "Run",
     "Gradle.plugin-sample [wrapper].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "minecraft",
     "kotlin-language-version-configured": "true"
   },
   "keyToStringList": {
@@ -179,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711060772119</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Intellijサンプルコード">
+      <option name="closed" value="true" />
+      <created>1711060931322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060931322</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Intellijサンプルコード">
+      <option name="closed" value="true" />
+      <created>1711060970710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711060970710</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,7 +239,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="minecraft" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
