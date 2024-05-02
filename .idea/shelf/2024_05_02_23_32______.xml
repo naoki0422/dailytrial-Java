@@ -1,0 +1,69 @@
+<changelist name="2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]" date="1714660359095" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/shelved.patch" />
+  <option name="DESCRIPTION" value="2024/05/02 23:32 の チェックアウト 前の未コミットの変更 [変更]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/checksums/md5-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.5/checksums/md5-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/md5-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.5/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/sha1-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/file-system.probe" />
+    <option name="AFTER_PATH" value=".gradle/file-system.probe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/file-system.probe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/libs/plugin-sample-1.0-SNAPSHOT.jar" />
+    <option name="AFTER_PATH" value="build/libs/plugin-sample-1.0-SNAPSHOT.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/plugin-sample-1.0-SNAPSHOT.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.5/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/checksums.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.5/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/org/example/plugin/pluginsample/Plugin_sample.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/fileHashes/resourceHashesCache.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.5/fileHashes/resourceHashesCache.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/resourceHashesCache.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/8.5/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/tmp/compileJava/previous-compilation-data.bin" />
+    <option name="AFTER_PATH" value="build/tmp/compileJava/previous-compilation-data.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/previous-compilation-data.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.5/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/8.5/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/8.5/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2024_05_02_23_32_の_チェックアウト_前の未コミットの変更_[変更]/fileHashes.lock" />
+  </binary>
+</changelist>
