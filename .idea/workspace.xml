@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="171cf499-6de7-4a61-82e6-69b081504af6" name="変更" comment="Intellijサンプルコード">
+    <list default="true" id="171cf499-6de7-4a61-82e6-69b081504af6" name="変更" comment="Day5 設定ファイルの読み取りまでのコード">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/plugin/pluginsample/Plugin_sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/plugin/pluginsample/Plugin_sample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,26 +98,28 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2dJdEkkd0J0D2Opw9FlfjoEXSQd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.plugin-sample [jar].executor": "Run",
-    "Gradle.plugin-sample [wrapper].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "minecraft",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.plugin-sample [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.plugin-sample [wrapper].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="gradle jar" />
@@ -169,6 +170,10 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Gradle.plugin-sample build" />
+      <item itemvalue="Gradle.plugin-sample [jar]" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.plugin-sample [jar]" />
@@ -231,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711060970710</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day5 設定ファイルの読み取りまでのコード">
+      <option name="closed" value="true" />
+      <created>1714661330353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714661330353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +272,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intellijサンプルコード" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intellijサンプルコード" />
+    <MESSAGE value="Day5 設定ファイルの読み取りまでのコード" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day5 設定ファイルの読み取りまでのコード" />
   </component>
 </project>
